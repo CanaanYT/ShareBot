@@ -1,5 +1,5 @@
 # ShareBot
-ShareBot Privacy Policy.
+## ShareBot Privacy Policy.
 - We thank our customers for reading our privacy policy laws, our privacy policy page includes some items as below: 
 - Our Robot Rights:
 
@@ -12,3 +12,18 @@ ShareBot Privacy Policy.
 
 - services and thus exposes themselves or their bot to be held accountable The company is legally sued by the bot management. 
 
+# ShareBot Arabic
+
+- نشكر عملائنا على قراءة قوانين سياسة الخصوصية الخاصة بنا ، وتتضمن صفحة سياسة الخصوصية الخاصة بنا بعض العناصر على النحو التالي: -
+
+-حقوق الروبوت لدينا :
+
+- يمتلك الروبوت الخاص بنا الحق الكامل في تعديل شروط سياسة الخصوصية الخاصة بنا أو إضافة شروط جديدة إليه في أي وقت إذا رأت إدارة الموقع أنه من الضروري القيام بذلك ، ويجب على العملاء مراجعة الخصوصية
+
+ -صفحة السياسة من وقت لآخر لتكون على علم بأي تعديل أو شروط مضافة إلى صفحة السياسة خصوصيتنا.
+
+- حقوق الطبع والنشر لشير بوت
+
+- يُمنع منعًا باتًا نسخ أو لصق أو استخدام أو إعادة استخدام أي شيء متعلق شير بوت ، وأي محتوى على الروبوت هو ملك شيربوت فقط ، وأيًا كان من ينسخ أو يلصق أو يستخدم أي محتوى من التسعينيات أو
+
+-الخدمات وبالتالي يعرضون أنفسهم أو روبوتهم للمساءلة. تمت مقاضاة الشركة قانونًا من قبل إدارة الروبوت. 
