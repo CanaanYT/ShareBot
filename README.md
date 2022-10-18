@@ -13,7 +13,7 @@
 - services and thus exposes themselves or their bot to be held accountable The company is legally sued by the bot management. 
 
 - Backup The last 20 messages from each channel are stored in the server. If you want to delete your data at any time, please contact the support: https://discord.gg/NEqg8qSpvf
-# ShareBot Arabic
+# شير بوت العربي
 ## سياسة خصوصية شير بوت.
 - نشكر عملائنا على قراءة قوانين سياسة الخصوصية الخاصة بنا ، وتتضمن صفحة سياسة الخصوصية الخاصة بنا بعض العناصر على النحو التالي:
 
