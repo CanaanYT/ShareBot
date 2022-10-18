@@ -6,7 +6,7 @@
 - Our bot has the full right to amend the terms of our privacy policy or add new ones to it at any time if the site administration deems it necessary to do so, and customers must review the privacy 
 
 - policy page from time to time to be aware of any modification or terms added to the policy page Our privacy.
--Copyright of our Sharebot:
+Copyright of our Sharebot:
 
 - It is strictly prohibited to copy, paste, use or reuse anything related to ShareBot, any content on the bot is the property of Sbot only, and whoever copies, pastes, or uses any ShareBot content or 
 
