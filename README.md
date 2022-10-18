@@ -8,7 +8,7 @@ ShareBot Privacy Policy.
 - policy page from time to time to be aware of any modification or terms added to the policy page Our privacy.
 -Copyright of our Sharebot:
 
--It is strictly prohibited to copy, paste, use or reuse anything related to ShareBot, any content on the bot is the property of Sbot only, and whoever copies, pastes, or uses any ShareBot content or 
+- It is strictly prohibited to copy, paste, use or reuse anything related to ShareBot, any content on the bot is the property of Sbot only, and whoever copies, pastes, or uses any ShareBot content or 
 
--services and thus exposes themselves or their bot to be held accountable The company is legally sued by the bot management. 
+- services and thus exposes themselves or their bot to be held accountable The company is legally sued by the bot management. 
 
