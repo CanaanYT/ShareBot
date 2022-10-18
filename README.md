@@ -14,7 +14,7 @@
 
 - Backup The last 20 messages from each channel are stored in the server. If you want to delete your data at any time, please contact the support: https://discord.gg/NEqg8qSpvf
 # ShareBot Arabic
-
+## سياسة خصوصية شير بوت.
 - نشكر عملائنا على قراءة قوانين سياسة الخصوصية الخاصة بنا ، وتتضمن صفحة سياسة الخصوصية الخاصة بنا بعض العناصر على النحو التالي:
 
 - حقوق الروبوت لدينا:
